@@ -32,6 +32,5 @@ I have provided a screenshot or preview of the webpage for easier reference.
 
 ## Author
 
-- Website - [Sounak Pal](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@syntherat](https://www.frontendmentor.io/profile/syntherat)
 - Twitter - [@sounak_syn](https://www.twitter.com/sounak_syn)
